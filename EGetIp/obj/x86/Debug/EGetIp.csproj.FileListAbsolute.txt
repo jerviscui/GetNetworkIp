@@ -1,0 +1,16 @@
+D:\软件开发项目\GetIp\EGetIp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\软件开发项目\GetIp\EGetIp\obj\x86\Debug\EGetIp.ProjectInstaller.resources
+D:\软件开发项目\GetIp\EGetIp\bin\Debug\EGetIp.exe
+D:\软件开发项目\GetIp\EGetIp\bin\Debug\EGetIp.pdb
+D:\软件开发项目\GetIp\EGetIp\obj\x86\Debug\EGetIp.exe
+D:\软件开发项目\GetIp\EGetIp\obj\x86\Debug\EGetIp.pdb
+C:\Users\Administrator\Desktop\GetIp_veryhuo.com\EGetIp\obj\x86\Debug\EGetIp.exe
+C:\Users\Administrator\Desktop\GetIp_veryhuo.com\EGetIp\obj\x86\Debug\EGetIp.pdb
+C:\Users\Administrator\Desktop\GetIp_veryhuo.com\EGetIp\bin\Debug\EGetIp.exe
+C:\Users\Administrator\Desktop\GetIp_veryhuo.com\EGetIp\bin\Debug\EGetIp.pdb
+C:\Users\Administrator\Desktop\GetIp_veryhuo.com\EGetIp\obj\x86\Debug\EGetIp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GetIp_veryhuo.com\EGetIp\obj\x86\Debug\EGetIp.ProjectInstaller.resources
+C:\Users\Administrator\Desktop\GetIp_veryhuo.com\EGetIp\obj\x86\Debug\EGetIp.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GetIp_veryhuo.com\EGetIp\bin\Debug\GetIpConfig.ini
+C:\Users\Administrator\Desktop\GetIp_veryhuo.com\EGetIp\bin\Debug\Install.bat
+C:\Users\Administrator\Desktop\GetIp_veryhuo.com\EGetIp\bin\Debug\Uninstall.bat

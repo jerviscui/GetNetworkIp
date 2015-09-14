@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestSettings name="本地" id="f91a1eb5-4b09-4723-ad29-be59498029de" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Description>这些设置为本地测试运行的默认测试设置。</Description>
+  <Deployment enabled="false" />
+  <Execution>
+    <TestTypeSpecific />
+    <AgentRule name="Execution Agents">
+    </AgentRule>
+  </Execution>
+</TestSettings>
