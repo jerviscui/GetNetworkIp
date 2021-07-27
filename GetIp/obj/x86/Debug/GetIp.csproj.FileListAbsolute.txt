@@ -1,0 +1,7 @@
+D:\软件开发项目\GetIp\GetIp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\软件开发项目\GetIp\GetIp\bin\Debug\GetIp.exe
+D:\软件开发项目\GetIp\GetIp\bin\Debug\GetIp.pdb
+D:\软件开发项目\GetIp\GetIp\obj\x86\Debug\GetIp.exe
+D:\软件开发项目\GetIp\GetIp\obj\x86\Debug\GetIp.pdb
+C:\Users\Administrator\Desktop\GetIp_veryhuo.com\GetIp\obj\x86\Debug\GetIp.exe
+C:\Users\Administrator\Desktop\GetIp_veryhuo.com\GetIp\obj\x86\Debug\GetIp.pdb
